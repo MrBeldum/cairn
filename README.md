@@ -16,6 +16,8 @@ Enough for `oras push`, `oras pull`, `oras repo tags`, `oras attach` and
 This is experimental: a learning slice of the spec, not a registry to point
 production traffic at. There are no tagged releases.
 
+Maintained by [Daniel Bae](https://github.com/MrBeldum). See [AUTHORS.md](AUTHORS.md).
+
 ## Running it
 
 ```sh
